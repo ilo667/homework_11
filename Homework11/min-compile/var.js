@@ -1,0 +1,1 @@
+"use strict";var test=50,test1=60;

@@ -1,0 +1,22 @@
+{
+  "name": "bower",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "3.2.1",
+    "normalize.css": "^8.0.1",
+    "slick-carousel": "^1.8.1",
+    "bootstrap": "^4.3.1",
+    "bootstrap-css": "^3.3.7"
+  }
+}
